@@ -9,6 +9,8 @@ npm i -D @matterlabs/hardhat-zksync-verify @nomiclabs/hardhat-etherscan
 npm i -D typescript ts-node ethers@^5.7.2 zksync-web3 hardhat @matterlabs/hardhat-zksync-solc @matterlabs/hardhat-zksync-deploy
 ```
 
+hardhatconfig.ts
+
 ```
 import "@matterlabs/hardhat-zksync-deploy";
 import "@matterlabs/hardhat-zksync-solc";
