@@ -1,12 +1,9 @@
 Make Sure you install Dependencies will update later
 
 ```
-//import * as dotenv from "dotenv";
-//dotenv.config();
-
 import "@matterlabs/hardhat-zksync-deploy";
 import "@matterlabs/hardhat-zksync-solc";
-//import "@matterlabs/hardhat-zksync-verify";
+import "@matterlabs/hardhat-zksync-verify";
 
 
 module.exports = {
