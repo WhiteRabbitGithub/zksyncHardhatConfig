@@ -3,9 +3,9 @@ Make Sure you install Dependencies will update later
 1. https://era.zksync.io/docs/dev/building-on-zksync/hello-world.html
 2. https://era.zksync.io/docs/api/hardhat/hardhat-zksync-verify.html
 
+npm init -y
 npm i -D @matterlabs/hardhat-zksync-verify @nomiclabs/hardhat-etherscan
-npm i -D @matterlabs/hardhat-zksync-solc
-
+npm i -D typescript ts-node ethers@^5.7.2 zksync-web3 hardhat @matterlabs/hardhat-zksync-solc @matterlabs/hardhat-zksync-deploy
 
 ```
 import "@matterlabs/hardhat-zksync-deploy";
