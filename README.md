@@ -1,6 +1,6 @@
 Make Sure you install Dependencies will update later
 
-1. https://era.zksync.io/docs/api/hardhat/hardhat-zksync-solc.html](https://era.zksync.io/docs/dev/building-on-zksync/hello-world.html
+1. https://era.zksync.io/docs/dev/building-on-zksync/hello-world.html
 2. https://era.zksync.io/docs/api/hardhat/hardhat-zksync-verify.html
 
 npm i -D @matterlabs/hardhat-zksync-verify @nomiclabs/hardhat-etherscan
